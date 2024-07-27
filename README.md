@@ -1,4 +1,4 @@
-![logo](https://github.com/Vimlendu27/Vimlendu/blob/main/VIM-github%20(1).jpg)
+![logo](https://github.com/Vimlendu27/Vimlendu27/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vimlendu Shekhar Rai</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
