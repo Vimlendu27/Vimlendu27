@@ -1,4 +1,4 @@
-![logo](https://github.//github.com/Vimlendu27/Vimlendu27/blob/main/1722102687250.jpg)
+![logo](https://github.com/Vimlendu27/Vimlendu27/blob/main/1722102687250.jpg)
 <h1 align="center">Hi 👋, I'm Vimlendu Shekhar Rai</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
