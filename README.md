@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./1788462374181.jpg" alt="Vimlendu Rai - AI + DevOps Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Vimlendu Shekhar Rai
 
 ### 🚀 DevOps Engineer | Azure Cloud | Generative AI
