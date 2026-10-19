@@ -1,29 +1,75 @@
-![logo](https://github.com/Vimlendu27/Vimlendu27/blob/main/1722102687250.jpg)
-<h1 align="center">Hi 👋, I'm Vimlendu Shekhar Rai</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+# 👋 Hi, I'm Vimlendu Shekhar Rai
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+### 🚀 DevOps Engineer | Azure Cloud | Generative AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimlendu27&label=Profile%20views&color=0e75b6&style=flat" alt="vimlendu27" /> </p>
+I am a DevOps Engineer focused on building, deploying, securing, and automating cloud infrastructure. I am expanding my expertise in Generative AI, LLMs, RAG, and AI Agents to build scalable, secure, and intelligent cloud solutions.
 
-- 🔭 I’m currently working on **Reliance Industries Limited**
+<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🌱 I’m currently learning **DevSecOps, Kubernetes,**
+- ☁️ **Cloud:** Microsoft Azure
+- ⚙️ **DevOps:** Azure DevOps, CI/CD Pipelines, Git
+- 🏗️ **Infrastructure as Code:** Terraform, Bicep
+- 🐳 **Containers:** Docker, Kubernetes, AKS
+- 🔐 **Cloud Security:** Azure Networking, Key Vault, RBAC
+- 🤖 **Generative AI:** Azure OpenAI, LLMs, RAG, AI Agents
+- 📈 **Monitoring:** Azure Monitor, Log Analytics
+- 🌱 **Currently Learning:** AI-powered DevOps automation and intelligent troubleshooting
 
-- 👨‍💻 All of my projects are available at [https://dev.azure.com/vimlendushekharrai23/](https://dev.azure.com/vimlendushekharrai23/)
+### 🎯 Areas of Interest
 
-- 📫 How to reach me **vimlendushekharrai97@gmail.com**
+- Automating cloud infrastructure and deployments
+- Building reliable CI/CD pipelines
+- Deploying AI-powered applications on Azure and Kubernetes
+- Exploring RAG-based knowledge assistants and AI Agents
+- Improving cloud security, scalability, and reliability
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vimlendushekharrai1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vimlendushekharrai1/" height="30" width="40" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="45"/></a>
+<a href="https://azure.microsoft.com/products/devops/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="45"/></a>
+<a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="45"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45"/></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="45"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45"/></a>
+<a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="45"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="45"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🤖 Generative AI Focus
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimlendu27&show_icons=true&locale=en&layout=compact" alt="vimlendu27" /></p>
+- Azure OpenAI and Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and vector search
+- AI Agents and intelligent automation
+- AI application deployment and cloud integration
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimlendu27&show_icons=true&locale=en" alt="vimlendu27" /></p>
+### 📂 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimlendu27&" alt="vimlendu27" /></p>
+Explore my repositories for cloud infrastructure, DevOps automation, CI/CD pipelines, Kubernetes, Terraform, and AI-related learning projects.
+
+🔗 **Azure DevOps Projects:** [Explore my Azure DevOps organization](https://dev.azure.com/vimlendushekharrai23/)
+
+### 📊 GitHub Stats
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vimlendu27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimlendu27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com?user=Vimlendu27&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vimlendushekharrai1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:vimlendushekhar97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+⭐ *Building, learning, and automating — one deployment at a time.*
